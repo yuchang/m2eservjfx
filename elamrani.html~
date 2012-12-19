@@ -1,11 +1,11 @@
 <html>
   <head>
 	<meta charset="utf-8">
-	<title>Page de LV Yuchang</title>
+	<title>Page de Mohammed EL Amrani</title>
   </head>
   <body>
 
-  <h1>Nom et Prénom : Lv Yuchang</h1>
+  <h1>Nom et Prénom : Mohammed EL Amrani</h1>
 		
   <table width=80% border="1">
       <tr>
@@ -28,5 +28,23 @@
       </tr>
   </table>
 
+
   </body>
 </html>
+
+
+
+<!--
+<html>
+	<head>
+		<title>elamrani page web</title>
+	</head>
+	<body>
+		Nom : Mohammed EL Amrani
+
+	<wbr> les fonctionnalités sont-elles au service de l'expression technique ? 
+	<wbr> ou l'inverse ?
+	<wbr> ou les deux ?
+	</body>
+</html>
+-->
